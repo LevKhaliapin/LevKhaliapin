@@ -3,7 +3,7 @@ ___
 beginner java developer
 ___
 ## PERSONAL INFORMATION
-* Telegram: [@LevKhaliapin](t.me/@LevKhaliapin)
+* Telegram: [@LevKhaliapin](t-do.ru/LevKhaliapin)
 * Phone: +4915906169745
 ___
 ## SKILLS
