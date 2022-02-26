@@ -2,11 +2,11 @@
 ___
 beginner java developer
 ___
-## PERSONAL INFORMATION
+## Сontacts
 * Telegram: [@LevKhaliapin](https://t.me/LevKhaliapin)
 * Phone: +4915906169745
 ___
-## SKILLS
+## Skills
 Stack |	Learned
 :-----|:----------:
 BACK-END:	| Java
@@ -14,5 +14,5 @@ FRONT-END:	| HTML5, CSS
 INSTRUMENTS:	| Git, Linux
 LANGUAGES:	| English - A1; German - A2; Russian – native
 ___
-## Education:
-taking courses in  [Tel-Ran](https://www.tel-ran.de/programming)
+## Education
+Taking courses in  [Tel-Ran](https://www.tel-ran.de/programming)
