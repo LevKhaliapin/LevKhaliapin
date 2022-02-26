@@ -2,10 +2,6 @@
 
 I am a beginner java developer
 
-## Сontacts
-* Telegram: [@LevKhaliapin](https://t.me/LevKhaliapin)
-* Phone: +4915906169745
-
 ## Skills
 Stack |	Learned
 :-----|:----------:
@@ -16,3 +12,7 @@ LANGUAGES:	| English - A1; German - A2; Russian – native
 
 ## Education
 Taking courses in  [Tel-Ran](https://www.tel-ran.de/programming)
+
+## Сontacts
+* Telegram: [@LevKhaliapin](https://t.me/LevKhaliapin)
+* Phone: +4915906169745
