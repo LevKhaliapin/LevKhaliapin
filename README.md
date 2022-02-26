@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**LevKhaliapin/LevKhaliapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Lev Khaliapin
+___
+beginner java developer
+___
+## PERSONAL INFORMATION
+* Telegram: [@LevKhaliapin](@LevKhaliapin)
+* Phone: +4915906169745
+___
+## SKILLS
+Stack |	Learned
+:-----|:----------:
+BACK-END:	| Java
+FRONT-END:	| HTML5, CSS
+INSTRUMENTS:	| Git, Linux
+LANGUAGES:	| English - A1; German - A2; Russian – native
+___
+## Education:
+taking courses in  [Tel-Ran](https://www.tel-ran.de/programming)
