@@ -1,6 +1,6 @@
 # Lev Khaliapin
 
-I am a beginner java developer
+Java developer
 
 ## Skills
 Stack |	Learned
@@ -15,6 +15,6 @@ Taking courses in  [Tel-Ran](https://www.tel-ran.de/programming)
 
 ## Сontacts
 * Telegram: [@LevKhaliapin](https://t.me/LevKhaliapin)
-* Phone: +4915906169745
+* Phone, WhatApp, Telegram: +4915906169745
 * Email: leva5843@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/lev-khaliapin-161118267/)
