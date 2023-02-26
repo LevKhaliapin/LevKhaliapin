@@ -6,9 +6,9 @@ I am a beginner java developer
 Stack |	Learned
 :-----|:----------:
 BACK-END:	| Java
-FRONT-END:	| HTML5, CSS
+FRONT-END:	| base HTML5 & CSS
 INSTRUMENTS:	| Git, Linux
-LANGUAGES:	| English - A1; German - A2; Russian – native
+LANGUAGES:	| English - A2; German - B1; Russian – native
 
 ## Education
 Taking courses in  [Tel-Ran](https://www.tel-ran.de/programming)
